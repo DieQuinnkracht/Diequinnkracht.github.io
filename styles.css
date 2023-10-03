@@ -21,3 +21,36 @@ ul {
    a:hover {
     text-decoration: underline; /* Voeg een onderstreping toe bij hover */
    }
+
+   /* Markeer het actieve menu-item */
+li a:active {
+    color: red; /* Wijzig de tekstkleur naar rood */
+   }
+   
+   /* Hover-effect voor menu-items */
+li a:hover {
+    background-color: #02eeff; /* Wijzig de achtergrondkleur naar licht blauw */
+    color: #fff; /* Wijzig de tekstkleur naar wit */
+   }
+
+   /* Algemene opmaak voor pagina's */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+   }
+   header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+   }
+   nav ul {
+    list-style-type: none;
+    padding: 0;
+   }
+   nav li {
+    display: inline;
+    margin-right: 20px;
+   }
+   /* Voeg meer stijlregels toe voor specifieke pagina-elementen zoals secties en voetteksten */
