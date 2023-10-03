@@ -4,8 +4,8 @@
 }
 
 header {    
-    background-color:  #ffffff;
-    color: rgb(0, 0, 0);
+    background-color:  #000000;
+    color: rgb(255, 255, 255);
     text-align: left;
     padding: 20px;
 }
@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 section {
-    background-color: #ffb6b6;
+    background-color: #7A3333;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
