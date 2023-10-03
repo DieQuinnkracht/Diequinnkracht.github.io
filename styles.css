@@ -27,12 +27,12 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #ff00ea;
-    color: rgb(183, 0, 255);
+    background-color: #ffffff;
+    color: rgb(255, 255, 255);
 }
 
 section {
-    background-color: #ff0000;
+    background-color: #ff9797;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -61,15 +61,15 @@ section {
 }
 
 .banaan a {
-    color: #ff0000;
+    color: #ffffff;
 }
 
 .banaan a:hover {
-    color: #286cff;
+    color: #ffffff;
 }
 
 .interest a:hover {
-    color: #4400ff;
+    color: #ffffff;
 }
 
 .gallery-image {
