@@ -28,7 +28,7 @@ nav a {
 
 nav a:hover {
     background-color: #00e1ff;
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 255);
 }
 
 section {
