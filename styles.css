@@ -4,8 +4,8 @@
 }
 
 header {    
-    background-color:  #c28943;
-    color: rgb(52, 48, 40);
+    background-color:  #3c30e0;
+    color: rgb(255, 0, 221);
     text-align: left;
     padding: 20px;
 }
@@ -15,20 +15,20 @@ nav {
     flex-wrap: wrap;
     justify-content: left;
     align-items: left;
-    background-color: #651111;
+    background-color: #ff00d4;
 }
 
 nav a {
     flex: 1;
-    color: rgb(228, 220, 170);
+    color: rgb(153, 0, 255);
     text-align: left;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav a:hover {
-    background-color: #b28b17;
-    color: black;
+    background-color: #ff00ea;
+    color: rgb(225, 0, 255);
 }
 
 section {
