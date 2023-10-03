@@ -15,7 +15,7 @@ nav {
     flex-wrap: wrap;
     justify-content: left;
     align-items: left;
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 nav a {
@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 section {
-    background-color: #7A3333;
+    background-color: #ffcccc;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
