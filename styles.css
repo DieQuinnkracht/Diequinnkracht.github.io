@@ -31,6 +31,20 @@ nav a:hover {
     color: rgb(0, 0, 255);
 }
 
+
+.submenu-open {
+    flex: 1;
+    color: rgb(0, 247, 255);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.submenu a:hover {
+    background-color: #2600ff;
+    color: rgb(0, 204, 255);
+}
+
 section {
     background-color: #ccfcff;
     padding: 20px;
