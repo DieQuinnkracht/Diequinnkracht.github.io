@@ -1,5 +1,5 @@
 /* Algemene stijlen */
-body {
+/* body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
   }
   
   /* Navigatie menu stijlen */
-  nav {
+  /* nav {
     background-color: #34495e;
   }
   
@@ -43,7 +43,7 @@ body {
   
   
   /* Submenu stijlen */
-  .submenu {
+  /* .submenu {
     opacity: 0;
     visibility: hidden;
     position: absolute;
@@ -73,7 +73,7 @@ body {
   }
   
   /* Sectie stijlen */
-  .section-light {
+  /* .section-light {
     background-color: #ecf0f1;
     padding: 2rem 0;
   }
@@ -85,7 +85,7 @@ body {
   }
   
   /* Persoonlijke introductie stijlen */
-  .intro-content {
+  /* .intro-content {
     display: flex;
     align-items: center;
   }
@@ -172,5 +172,4 @@ body {
   }
   .embedded-video {
     margin-top: 1rem;
-  }
-  
+  } 
